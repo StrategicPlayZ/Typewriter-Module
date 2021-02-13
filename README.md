@@ -4,7 +4,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 ## Documentation
 
 <!--=====-->
-* `Typewriter.new` (Function):
+* ### `Typewriter.new` (Function):
 
   Creates a new **Typer** object. Each **TextLabel** should have a separate **Typer** object for it.
   
@@ -12,9 +12,11 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
     * no parameters
     
   **Returns:**
+    * **Typer** object
 <!--=====-->
 
 <!--=====-->
-* `Typer.OnTextUpdated` (RBXScriptSignal):<br />
+* `Typer.OnTextUpdated` (RBXScriptSignal):
+
 A **Connection** to the **Typer** object that fires every time the text changes.
 <!--=====-->
