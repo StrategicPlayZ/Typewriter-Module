@@ -2,18 +2,18 @@
 https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 
 ## Contents
-  * [Documentation](#doc_heading)
-   * [Typewriter.new](#typewriter_new)
-   * [Typer.OnTextUpdated](#typer_ontextupdated)
-   * [Typer.OnTyperFinished](#typer_ontyperfinished)
-   * [Documentation](#doc_heading)
-   * [Documentation](#doc_heading)
-   * [Documentation](#doc_heading)
-   * [Documentation](#doc_heading)
-   * [Documentation](#doc_heading)
-   * [Documentation](#doc_heading)
-   * [Documentation](#doc_heading)
-   * [Documentation](#doc_heading)
+  * ### [Documentation](#doc_heading)
+    * [Typewriter.new](#typewriter_new)
+    * [Typer.OnTextUpdated](#typer_ontextupdated)
+    * [Typer.OnTyperFinished](#typer_ontyperfinished)
+    * [Documentation](#doc_heading)
+    * [Documentation](#doc_heading)
+    * [Documentation](#doc_heading)
+    * [Documentation](#doc_heading)
+    * [Documentation](#doc_heading)
+    * [Documentation](#doc_heading)
+    * [Documentation](#doc_heading)
+    * [Documentation](#doc_heading)
 
 ## Documentation <a id="doc_heading"></a>
 <!-- ==================DOCUMENTATION-BEGIN================== -->
