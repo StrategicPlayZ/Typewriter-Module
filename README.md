@@ -2,18 +2,17 @@
 https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 
 ## Contents
-  * ### [Documentation](#doc_heading)
+  * [**Documentation**](#doc_heading)
     * [Typewriter.new](#typewriter_new)
     * [Typer.OnTextUpdated](#typer_ontextupdated)
     * [Typer.OnTyperFinished](#typer_ontyperfinished)
-    * [Documentation](#doc_heading)
-    * [Documentation](#doc_heading)
-    * [Documentation](#doc_heading)
-    * [Documentation](#doc_heading)
-    * [Documentation](#doc_heading)
-    * [Documentation](#doc_heading)
-    * [Documentation](#doc_heading)
-    * [Documentation](#doc_heading)
+    * [Typer:TypeText](#typer_typetext)
+    * [Typer:AdjustSpeed](#typer_adjustspeed)
+    * [Typer:Stop](#typer_stop)
+    * [Typer:Pause](#typer_pause)
+    * [Typer:Unpause](#typer_unpause)
+    * [Typer:IsTyping](#typer_istyping)
+    * [Typer:Destroy](#typer_destroy)
 
 ## Documentation <a id="doc_heading"></a>
 <!-- ==================DOCUMENTATION-BEGIN================== -->
@@ -55,7 +54,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer:TypeText` *(function):*
+* ### `Typer:TypeText` *(function):* <a id="typer_typetext"></a>
 
   Starts typing the text and fires the callbacks connected to it every text update.
   
@@ -70,7 +69,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer:AdjustSpeed` *(function):*
+* ### `Typer:AdjustSpeed` *(function):* <a id="typer_adjustspeed"></a>
 
   Changes the speed of the typer in real-time.
   
@@ -82,7 +81,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer:Stop` *(function):*
+* ### `Typer:Stop` *(function):* <a id="typer_stop"></a>
 
   Stops typing the text.
   
@@ -94,7 +93,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer:Pause` *(function):*
+* ### `Typer:Pause` *(function):* <a id="typer_pause"></a>
 
   Pauses typing the text.
   
@@ -106,7 +105,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer:Unpause` *(function):*
+* ### `Typer:Unpause` *(function):* <a id="typer_unpause"></a>
 
   Unpauses typing the text.
   
@@ -118,7 +117,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer:IsTyping` *(function):*
+* ### `Typer:IsTyping` *(function):* <a id="typer_istyping"></a>
 
   Returns a boolean indicating whether the typer is currently typing or not.
   
@@ -130,7 +129,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer:Destroy` *(function):*
+* ### `Typer:Destroy` *(function):* <a id="typer_destroy"></a>
 
   Destroys the **Typer** object.
   
