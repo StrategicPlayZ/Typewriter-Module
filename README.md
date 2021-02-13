@@ -2,13 +2,12 @@
 https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 
 ## Contents
-  * [a](#first)
+  * [a](#Typewriter.new)
 
 ## Documentation
 <!-- ==================DOCUMENTATION-BEGIN================== -->
 <!--=====-->
-<cc id="first"></cc>
-* ### `Typewriter.new` *(function):*
+* ### `Typewriter.new` *(function):* <a id="Typewriter.new"></a>
 
   Creates a new **Typer** object. Each **TextLabel** should have a separate **Typer** object for it.
   
