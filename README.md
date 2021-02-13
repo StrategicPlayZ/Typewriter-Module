@@ -4,12 +4,13 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 ## Documentation
 
 <!--=====-->
-* `Typewriter.new` (Function):<br />
-  Creates a new **Typer** object. Each **TextLabel** should have a separate **Typer** object for it.<br />
+* `Typewriter.new` (Function):
+
+  Creates a new **Typer** object. Each **TextLabel** should have a separate **Typer** object for it.
+  
   **Parameters:**
-  <ul>
-    <li>no parameters</li>
-  </ul>
+    * no parameters
+    
   **Returns:**
 <!--=====-->
 
