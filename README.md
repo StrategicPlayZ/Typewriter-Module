@@ -1,6 +1,9 @@
 # Typewriter Module \[Supports RichText\]
 https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 
+**Note:**
+Get the module from the link mentioned in the DevForum thread, not from this repository, this is intended only for the documentation and for viewing the code without the need of opening Roblox Studio.
+
 ## Contents
   * ### [Documentation](#doc_heading)
     * [Typewriter.new](#typewriter_new)
