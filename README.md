@@ -2,12 +2,23 @@
 https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 
 ## Contents
-  * [a](#Typewriter.new)
+  * [Documentation](#doc_heading)
+   * [Typewriter.new](#typewriter_new)
+   * [Typer.OnTextUpdated](#typer_ontextupdated)
+   * [Typer.OnTyperFinished](#typer_ontyperfinished)
+   * [Documentation](#doc_heading)
+   * [Documentation](#doc_heading)
+   * [Documentation](#doc_heading)
+   * [Documentation](#doc_heading)
+   * [Documentation](#doc_heading)
+   * [Documentation](#doc_heading)
+   * [Documentation](#doc_heading)
+   * [Documentation](#doc_heading)
 
-## Documentation
+## Documentation <a id="doc_heading"></a>
 <!-- ==================DOCUMENTATION-BEGIN================== -->
 <!--=====-->
-* ### `Typewriter.new` *(function):* <a id="Typewriter.new"></a>
+* ### `Typewriter.new` *(function):* <a id="typewriter_new"></a>
 
   Creates a new **Typer** object. Each **TextLabel** should have a separate **Typer** object for it.
   
@@ -19,7 +30,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer.OnTextUpdated` *(RBXScriptSignal):*
+* ### `Typer.OnTextUpdated` *(RBXScriptSignal):* <a id="typer_ontextupdated"></a>
   
   A **Connection** to the **Typer** object that fires every time the text changes.
   
@@ -32,7 +43,7 @@ https://devforum.roblox.com/t/supports-richtext-typewriter-module/946868
 <!--=====-->
 
 <!--=====-->
-* ### `Typer.OnTyperFinished` *(RBXScriptSignal):*
+* ### `Typer.OnTyperFinished` *(RBXScriptSignal):* <a id="typer_ontyperfinished"></a>
 
   A **Connection** to the **Typer** object that fires every time the **Typer** object finishes typing the text.
   
